@@ -1,6 +1,6 @@
 # annotated_research_papers
 
-![](files\annotated_paper_demo.gif)
+![annotated_paper_demo](files/annotated_paper_demo.gif)
 
 -------------------
 
