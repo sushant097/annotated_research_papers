@@ -1,2 +1,7 @@
 # annotated_research_papers
-This repository has annotated research papers that I read and annotate in my spare time.
+
+![](files\annotated_paper_demo.gif)
+
+-------------------
+
+Of course, this repository will be improved with your pull request. Send me **PR**,   I will **MR** it.
