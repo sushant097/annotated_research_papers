@@ -6,7 +6,6 @@
 This includes annotate research paper, which I annotated while learning and adding in this repo for other references. I will be added particularly computer vision paper but not limited to it.
 
 
-Your thoughts and comments are really valuable, making this challenge a terrific resource for everyone. 
 
 ---------------
 
