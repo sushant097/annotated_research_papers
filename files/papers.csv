@@ -1,3 +1,6 @@
 id, paper name, pdf
 1, Image-to-Image Translation with Conditional Adversarial Networks, pix2pix-2018.pdf
 2, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, cycleGAN-2017.pdf
+3, A Neural Algorithm of Artistic Style , NeuralStyleTransfer-2015.pdf
+4, InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets , InfoGAN-2016.pdf
+5, Conditional Image Synthesis With Auxiliary Classifier GANs, ACGAN-2016.pdf
